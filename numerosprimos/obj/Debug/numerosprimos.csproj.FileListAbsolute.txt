@@ -1,0 +1,6 @@
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\bin\Debug\numerosprimos.exe.config
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\obj\Debug\numerosprimos.csprojResolveAssemblyReference.cache
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\bin\Debug\numerosprimos.exe
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\bin\Debug\numerosprimos.pdb
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\obj\Debug\numerosprimos.exe
+C:\Users\mateus.mariano.NAVE0\Documents\numerosprimos\numerosprimos\obj\Debug\numerosprimos.pdb
